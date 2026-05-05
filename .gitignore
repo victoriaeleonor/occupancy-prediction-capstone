@@ -1,0 +1,17 @@
+Dataset/
+*.parquet
+*.csv
+*.pkl
+
+Model/
+*.pkl
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
