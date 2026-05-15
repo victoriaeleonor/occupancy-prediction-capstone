@@ -1,11 +1,8 @@
-Dataset/
 *.parquet
 *.csv
 *.pkl
 
-Model/
 *.pkl
-
 
 # Jupyter
 .ipynb_checkpoints/
